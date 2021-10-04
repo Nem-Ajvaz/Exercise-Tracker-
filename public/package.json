@@ -1,0 +1,11 @@
+{
+  "name": "exercise_tracker",
+  "version": "1.0.0",
+  "description": "Track your latest workouts and become swole",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
